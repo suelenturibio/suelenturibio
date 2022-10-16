@@ -15,7 +15,9 @@
 
  
 <div> 
- <a href="www.linkedin.com/in/suelenturibio" target="_blank" class="linkedin">LinkedIn</a>
+  <li>
+   <a href="www.linkedin.com/in/suelenturibio" target="_blank" class="linkedin">LinkedIn</a>
+  </li>
  
   ![Snake animation](https://github.com/suelenturibio/suelenturibio/blob/output/github-contribution-grid-snake.svg)
 
